@@ -1,0 +1,5 @@
+  File "/home/kev/ldlidar_ros2_ws/install/autonomous_exploration/lib/python3.10/site-packages/autonomous_exploration/control.py", line 33
+    t0 = +2.0 (w x + y z)
+               ^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

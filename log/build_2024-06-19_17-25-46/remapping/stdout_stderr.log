@@ -1,0 +1,29 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+Removing /home/kev/ldlidar_ros2_ws/install/remapping/lib/python3.10/site-packages/remapping.egg-link (link to .)
+running egg_info
+writing ../../build/remapping/remapping.egg-info/PKG-INFO
+writing dependency_links to ../../build/remapping/remapping.egg-info/dependency_links.txt
+writing entry points to ../../build/remapping/remapping.egg-info/entry_points.txt
+writing requirements to ../../build/remapping/remapping.egg-info/requires.txt
+writing top-level names to ../../build/remapping/remapping.egg-info/top_level.txt
+reading manifest file '../../build/remapping/remapping.egg-info/SOURCES.txt'
+writing manifest file '../../build/remapping/remapping.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/kev/ldlidar_ros2_ws/install/remapping/lib/python3.10/site-packages/remapping
+copying /home/kev/ldlidar_ros2_ws/build/remapping/build/lib/remapping/remap.py -> /home/kev/ldlidar_ros2_ws/install/remapping/lib/python3.10/site-packages/remapping
+copying /home/kev/ldlidar_ros2_ws/build/remapping/build/lib/remapping/__init__.py -> /home/kev/ldlidar_ros2_ws/install/remapping/lib/python3.10/site-packages/remapping
+byte-compiling /home/kev/ldlidar_ros2_ws/install/remapping/lib/python3.10/site-packages/remapping/remap.py to remap.cpython-310.pyc
+byte-compiling /home/kev/ldlidar_ros2_ws/install/remapping/lib/python3.10/site-packages/remapping/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/remapping -> /home/kev/ldlidar_ros2_ws/install/remapping/share/ament_index/resource_index/packages
+copying package.xml -> /home/kev/ldlidar_ros2_ws/install/remapping/share/remapping
+running install_egg_info
+Copying ../../build/remapping/remapping.egg-info to /home/kev/ldlidar_ros2_ws/install/remapping/lib/python3.10/site-packages/remapping-0.0.0-py3.10.egg-info
+running install_scripts
+Installing remap script to /home/kev/ldlidar_ros2_ws/install/remapping/lib/remapping
+writing list of installed files to '/home/kev/ldlidar_ros2_ws/build/remapping/install.log'

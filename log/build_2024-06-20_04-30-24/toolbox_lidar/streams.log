@@ -1,0 +1,23 @@
+[0.697s] Invoking command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kev/ldlidar_ros2_ws/install/remapping:/home/kev/ldlidar_ros2_ws/install/my_turtlebot3_simulations:/home/kev/ldlidar_ros2_ws/install/map_remapper:/home/kev/ldlidar_ros2_ws/install/autonomous_exploration:/opt/ros/humble /usr/bin/cmake --build /home/kev/ldlidar_ros2_ws/build/toolbox_lidar -- -j8 -l8
+[0.744s] Invoked command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kev/ldlidar_ros2_ws/install/remapping:/home/kev/ldlidar_ros2_ws/install/my_turtlebot3_simulations:/home/kev/ldlidar_ros2_ws/install/map_remapper:/home/kev/ldlidar_ros2_ws/install/autonomous_exploration:/opt/ros/humble /usr/bin/cmake --build /home/kev/ldlidar_ros2_ws/build/toolbox_lidar -- -j8 -l8
+[0.777s] Invoking command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kev/ldlidar_ros2_ws/install/remapping:/home/kev/ldlidar_ros2_ws/install/my_turtlebot3_simulations:/home/kev/ldlidar_ros2_ws/install/map_remapper:/home/kev/ldlidar_ros2_ws/install/autonomous_exploration:/opt/ros/humble /usr/bin/cmake --install /home/kev/ldlidar_ros2_ws/build/toolbox_lidar
+[0.788s] -- Install configuration: ""
+[0.789s] -- Execute custom install script
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/launch/slam_toolbox.launch.py
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/config/slam_toolbox_config.yaml
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/ament_index/resource_index/package_run_dependencies/toolbox_lidar
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/ament_index/resource_index/parent_prefix_path/toolbox_lidar
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/environment/ament_prefix_path.sh
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/environment/ament_prefix_path.dsv
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/environment/path.sh
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/environment/path.dsv
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/local_setup.bash
+[0.790s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/local_setup.sh
+[0.791s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/local_setup.zsh
+[0.791s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/local_setup.dsv
+[0.791s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/package.dsv
+[0.805s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/ament_index/resource_index/packages/toolbox_lidar
+[0.805s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/cmake/toolbox_lidarConfig.cmake
+[0.805s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/cmake/toolbox_lidarConfig-version.cmake
+[0.805s] -- Up-to-date symlink: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/package.xml
+[0.806s] Invoked command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kev/ldlidar_ros2_ws/install/remapping:/home/kev/ldlidar_ros2_ws/install/my_turtlebot3_simulations:/home/kev/ldlidar_ros2_ws/install/map_remapper:/home/kev/ldlidar_ros2_ws/install/autonomous_exploration:/opt/ros/humble /usr/bin/cmake --install /home/kev/ldlidar_ros2_ws/build/toolbox_lidar

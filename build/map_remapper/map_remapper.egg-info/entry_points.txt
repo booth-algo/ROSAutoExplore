@@ -1,0 +1,3 @@
+[console_scripts]
+map_remapper = map_remapper.map_remapper:main
+

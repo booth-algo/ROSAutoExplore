@@ -1,0 +1,6 @@
+/home/kev/ldlidar_ros2_ws/install/autonomous_exploration/lib/python3.10/site-packages/autonomous_exploration/control.py:10: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t0 = +2.0 (w * x + y * z)
+/home/kev/ldlidar_ros2_ws/install/autonomous_exploration/lib/python3.10/site-packages/autonomous_exploration/control.py:13: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t2 = +2.0 (w * y - z * x)
+/home/kev/ldlidar_ros2_ws/install/autonomous_exploration/lib/python3.10/site-packages/autonomous_exploration/control.py:17: SyntaxWarning: 'float' object is not callable; perhaps you missed a comma?
+  t3 = +2.0 (w * z + x * y)

@@ -1,0 +1,6 @@
+Invoking command in '/home/kev/ldlidar_ros2_ws/build/explore_lite': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kev/ldlidar_ros2_ws/src/m-explore-ros2/explore -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kev/ldlidar_ros2_ws/install/explore_lite
+Invoked command in '/home/kev/ldlidar_ros2_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kev/ldlidar_ros2_ws/src/m-explore-ros2/explore -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kev/ldlidar_ros2_ws/install/explore_lite
+Invoking command in '/home/kev/ldlidar_ros2_ws/build/explore_lite': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kev/ldlidar_ros2_ws/build/explore_lite -- -j8 -l8
+Invoked command in '/home/kev/ldlidar_ros2_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kev/ldlidar_ros2_ws/build/explore_lite -- -j8 -l8
+Invoking command in '/home/kev/ldlidar_ros2_ws/build/explore_lite': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kev/ldlidar_ros2_ws/build/explore_lite
+Invoked command in '/home/kev/ldlidar_ros2_ws/build/explore_lite' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kev/ldlidar_ros2_ws/build/explore_lite

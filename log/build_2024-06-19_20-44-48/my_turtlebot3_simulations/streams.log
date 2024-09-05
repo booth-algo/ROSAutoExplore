@@ -1,0 +1,20 @@
+[1.123s] Invoking command in '/home/kev/ldlidar_ros2_ws/src/my_turtlebot3_simulations': PYTHONPATH=/home/kev/ldlidar_ros2_ws/build/my_turtlebot3_simulations/prefix_override:/home/kev/ldlidar_ros2_ws/install/my_turtlebot3_simulations/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtlebot3_simulations build --build-base /home/kev/ldlidar_ros2_ws/build/my_turtlebot3_simulations/build install --record /home/kev/ldlidar_ros2_ws/build/my_turtlebot3_simulations/install.log --single-version-externally-managed install_data
+[1.354s] running egg_info
+[1.355s] writing ../../build/my_turtlebot3_simulations/my_turtlebot3_simulations.egg-info/PKG-INFO
+[1.355s] writing dependency_links to ../../build/my_turtlebot3_simulations/my_turtlebot3_simulations.egg-info/dependency_links.txt
+[1.355s] writing entry points to ../../build/my_turtlebot3_simulations/my_turtlebot3_simulations.egg-info/entry_points.txt
+[1.355s] writing requirements to ../../build/my_turtlebot3_simulations/my_turtlebot3_simulations.egg-info/requires.txt
+[1.355s] writing top-level names to ../../build/my_turtlebot3_simulations/my_turtlebot3_simulations.egg-info/top_level.txt
+[1.358s] reading manifest file '../../build/my_turtlebot3_simulations/my_turtlebot3_simulations.egg-info/SOURCES.txt'
+[1.358s] writing manifest file '../../build/my_turtlebot3_simulations/my_turtlebot3_simulations.egg-info/SOURCES.txt'
+[1.358s] running build
+[1.359s] running build_py
+[1.359s] running install
+[1.359s] running install_lib
+[1.361s] running install_data
+[1.362s] running install_egg_info
+[1.362s] removing '/home/kev/ldlidar_ros2_ws/install/my_turtlebot3_simulations/lib/python3.10/site-packages/my_turtlebot3_simulations-0.0.0-py3.10.egg-info' (and everything under it)
+[1.362s] Copying ../../build/my_turtlebot3_simulations/my_turtlebot3_simulations.egg-info to /home/kev/ldlidar_ros2_ws/install/my_turtlebot3_simulations/lib/python3.10/site-packages/my_turtlebot3_simulations-0.0.0-py3.10.egg-info
+[1.363s] running install_scripts
+[1.383s] writing list of installed files to '/home/kev/ldlidar_ros2_ws/build/my_turtlebot3_simulations/install.log'
+[1.409s] Invoked command in '/home/kev/ldlidar_ros2_ws/src/my_turtlebot3_simulations' returned '0': PYTHONPATH=/home/kev/ldlidar_ros2_ws/build/my_turtlebot3_simulations/prefix_override:/home/kev/ldlidar_ros2_ws/install/my_turtlebot3_simulations/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_turtlebot3_simulations build --build-base /home/kev/ldlidar_ros2_ws/build/my_turtlebot3_simulations/build install --record /home/kev/ldlidar_ros2_ws/build/my_turtlebot3_simulations/install.log --single-version-externally-managed install_data

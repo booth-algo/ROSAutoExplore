@@ -1,0 +1,4 @@
+[console_scripts]
+control = autonomous_exploration.control:main
+listener = autonomous_exploration.listener:main
+

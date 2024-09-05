@@ -1,0 +1,64 @@
+[0.618s] Invoking command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kev/ldlidar_ros2_ws/src/toolbox_lidar -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kev/ldlidar_ros2_ws/install/toolbox_lidar
+[0.634s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.829s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.839s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[0.883s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.888s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.897s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.916s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.943s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.036s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.037s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.202s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.422s] -- Found slam_toolbox: 2.6.8 (/opt/ros/humble/share/slam_toolbox/cmake)
+[2.270s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[2.270s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[2.344s] -- Setting OGRE_DIR to: '/opt/ros/humble/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[2.345s] -- Found OGRE
+[2.345s] --   static     : OFF
+[2.345s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[2.345s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[2.345s] --   media      : /opt/ros/humble/opt/rviz_ogre_vendor/share/OGRE/Media
+[2.346s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[2.346s] -- OGRE_LIBRARY_DIRS: /opt/ros/humble/opt/rviz_ogre_vendor/lib
+[2.346s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[2.346s] -- OGRE_PLUGIN_DIR: /opt/ros/humble/opt/rviz_ogre_vendor/lib/OGRE
+[2.346s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[2.346s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[2.346s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[2.346s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[2.379s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_RELEASE: _render_system_gl_static_library_abs-NOTFOUND
+[2.380s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_DEBUG: _render_system_gl_static_library_abs-NOTFOUND
+[2.406s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[2.863s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.911s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.911s] -- Added test 'lint_cmake' to check CMake code style
+[2.911s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.911s] -- Added test 'xmllint' to check XML markup files
+[2.912s] -- Configuring done
+[2.916s] -- Generating done
+[2.917s] -- Build files have been written to: /home/kev/ldlidar_ros2_ws/build/toolbox_lidar
+[2.926s] Invoked command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kev/ldlidar_ros2_ws/src/toolbox_lidar -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kev/ldlidar_ros2_ws/install/toolbox_lidar
+[2.927s] Invoking command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kev/ldlidar_ros2_ws/build/toolbox_lidar -- -j8 -l8
+[2.966s] Invoked command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kev/ldlidar_ros2_ws/build/toolbox_lidar -- -j8 -l8
+[2.985s] Invoking command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kev/ldlidar_ros2_ws/build/toolbox_lidar
+[2.992s] -- Install configuration: ""
+[2.992s] -- Execute custom install script
+[2.992s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/launch/slam_toolbox.launch.py
+[3.000s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/config/slam_toolbox_config.yaml
+[3.007s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/ament_index/resource_index/package_run_dependencies/toolbox_lidar
+[3.015s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/ament_index/resource_index/parent_prefix_path/toolbox_lidar
+[3.024s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/environment/ament_prefix_path.sh
+[3.032s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/environment/ament_prefix_path.dsv
+[3.040s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/environment/path.sh
+[3.049s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/environment/path.dsv
+[3.057s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/local_setup.bash
+[3.065s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/local_setup.sh
+[3.073s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/local_setup.zsh
+[3.082s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/local_setup.dsv
+[3.090s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/package.dsv
+[3.098s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/ament_index/resource_index/packages/toolbox_lidar
+[3.106s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/cmake/toolbox_lidarConfig.cmake
+[3.115s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/cmake/toolbox_lidarConfig-version.cmake
+[3.123s] -- Symlinking: /home/kev/ldlidar_ros2_ws/install/toolbox_lidar/share/toolbox_lidar/package.xml
+[3.133s] Invoked command in '/home/kev/ldlidar_ros2_ws/build/toolbox_lidar' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kev/ldlidar_ros2_ws/build/toolbox_lidar

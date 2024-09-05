@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing remapping.egg-info/PKG-INFO
+writing dependency_links to remapping.egg-info/dependency_links.txt
+writing entry points to remapping.egg-info/entry_points.txt
+writing requirements to remapping.egg-info/requires.txt
+writing top-level names to remapping.egg-info/top_level.txt
+reading manifest file 'remapping.egg-info/SOURCES.txt'
+writing manifest file 'remapping.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kev/ldlidar_ros2_ws/install/remapping/lib/python3.10/site-packages/remapping.egg-link (link to .)
+Installing remap script to /home/kev/ldlidar_ros2_ws/install/remapping/lib/remapping
+
+Installed /home/kev/ldlidar_ros2_ws/build/remapping
+running symlink_data
+symbolically linking /home/kev/ldlidar_ros2_ws/build/remapping/resource/remapping -> /home/kev/ldlidar_ros2_ws/install/remapping/share/ament_index/resource_index/packages
+symbolically linking /home/kev/ldlidar_ros2_ws/build/remapping/package.xml -> /home/kev/ldlidar_ros2_ws/install/remapping/share/remapping

@@ -1,0 +1,19 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing map_remapper.egg-info/PKG-INFO
+writing dependency_links to map_remapper.egg-info/dependency_links.txt
+writing entry points to map_remapper.egg-info/entry_points.txt
+writing requirements to map_remapper.egg-info/requires.txt
+writing top-level names to map_remapper.egg-info/top_level.txt
+reading manifest file 'map_remapper.egg-info/SOURCES.txt'
+writing manifest file 'map_remapper.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map-remapper.egg-link (link to .)
+Installing map_remapper script to /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/map_remapper
+
+Installed /home/kev/ldlidar_ros2_ws/build/map_remapper
+running symlink_data
+symbolically linking /home/kev/ldlidar_ros2_ws/build/map_remapper/resource/map_remapper -> /home/kev/ldlidar_ros2_ws/install/map_remapper/share/ament_index/resource_index/packages
+symbolically linking /home/kev/ldlidar_ros2_ws/build/map_remapper/package.xml -> /home/kev/ldlidar_ros2_ws/install/map_remapper/share/map_remapper

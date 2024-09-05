@@ -1,0 +1,1 @@
+/home/kev/ldlidar_ros2_ws/build/multirobot_map_merge/ament_cmake_environment_hooks/local_setup.sh

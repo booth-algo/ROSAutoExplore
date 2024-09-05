@@ -1,0 +1,8 @@
+source;share/toolbox_lidar/hook/cmake_prefix_path.ps1
+source;share/toolbox_lidar/hook/cmake_prefix_path.dsv
+source;share/toolbox_lidar/hook/cmake_prefix_path.sh
+source;share/toolbox_lidar/local_setup.bash
+source;share/toolbox_lidar/local_setup.dsv
+source;share/toolbox_lidar/local_setup.ps1
+source;share/toolbox_lidar/local_setup.sh
+source;share/toolbox_lidar/local_setup.zsh

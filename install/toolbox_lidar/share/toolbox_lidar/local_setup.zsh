@@ -1,0 +1,1 @@
+/home/kev/ldlidar_ros2_ws/build/toolbox_lidar/ament_cmake_environment_hooks/local_setup.zsh

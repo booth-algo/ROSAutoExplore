@@ -1,0 +1,37 @@
+[0.914s] Invoking command in '/home/kev/ldlidar_ros2_ws/src/map_remapper': PYTHONPATH=/home/kev/ldlidar_ros2_ws/build/map_remapper/prefix_override:/home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/map_remapper build --build-base /home/kev/ldlidar_ros2_ws/build/map_remapper/build install --record /home/kev/ldlidar_ros2_ws/build/map_remapper/install.log --single-version-externally-managed install_data
+[1.130s] running egg_info
+[1.130s] creating ../../build/map_remapper/map_remapper.egg-info
+[1.130s] writing ../../build/map_remapper/map_remapper.egg-info/PKG-INFO
+[1.130s] writing dependency_links to ../../build/map_remapper/map_remapper.egg-info/dependency_links.txt
+[1.130s] writing entry points to ../../build/map_remapper/map_remapper.egg-info/entry_points.txt
+[1.130s] writing requirements to ../../build/map_remapper/map_remapper.egg-info/requires.txt
+[1.131s] writing top-level names to ../../build/map_remapper/map_remapper.egg-info/top_level.txt
+[1.131s] writing manifest file '../../build/map_remapper/map_remapper.egg-info/SOURCES.txt'
+[1.132s] reading manifest file '../../build/map_remapper/map_remapper.egg-info/SOURCES.txt'
+[1.132s] writing manifest file '../../build/map_remapper/map_remapper.egg-info/SOURCES.txt'
+[1.132s] running build
+[1.132s] running build_py
+[1.132s] creating /home/kev/ldlidar_ros2_ws/build/map_remapper/build
+[1.132s] creating /home/kev/ldlidar_ros2_ws/build/map_remapper/build/lib
+[1.132s] creating /home/kev/ldlidar_ros2_ws/build/map_remapper/build/lib/map_remapper
+[1.132s] copying map_remapper/__init__.py -> /home/kev/ldlidar_ros2_ws/build/map_remapper/build/lib/map_remapper
+[1.133s] copying map_remapper/map_remapper.py -> /home/kev/ldlidar_ros2_ws/build/map_remapper/build/lib/map_remapper
+[1.133s] running install
+[1.133s] running install_lib
+[1.133s] creating /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map_remapper
+[1.133s] copying /home/kev/ldlidar_ros2_ws/build/map_remapper/build/lib/map_remapper/__init__.py -> /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map_remapper
+[1.133s] copying /home/kev/ldlidar_ros2_ws/build/map_remapper/build/lib/map_remapper/map_remapper.py -> /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map_remapper
+[1.134s] byte-compiling /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map_remapper/__init__.py to __init__.cpython-310.pyc
+[1.134s] byte-compiling /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map_remapper/map_remapper.py to map_remapper.cpython-310.pyc
+[1.134s] running install_data
+[1.134s] creating /home/kev/ldlidar_ros2_ws/install/map_remapper/share/ament_index
+[1.134s] creating /home/kev/ldlidar_ros2_ws/install/map_remapper/share/ament_index/resource_index
+[1.134s] creating /home/kev/ldlidar_ros2_ws/install/map_remapper/share/ament_index/resource_index/packages
+[1.134s] copying resource/map_remapper -> /home/kev/ldlidar_ros2_ws/install/map_remapper/share/ament_index/resource_index/packages
+[1.134s] copying package.xml -> /home/kev/ldlidar_ros2_ws/install/map_remapper/share/map_remapper
+[1.134s] running install_egg_info
+[1.136s] Copying ../../build/map_remapper/map_remapper.egg-info to /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map_remapper-0.0.0-py3.10.egg-info
+[1.136s] running install_scripts
+[1.150s] Installing map_remapper script to /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/map_remapper
+[1.150s] writing list of installed files to '/home/kev/ldlidar_ros2_ws/build/map_remapper/install.log'
+[1.169s] Invoked command in '/home/kev/ldlidar_ros2_ws/src/map_remapper' returned '0': PYTHONPATH=/home/kev/ldlidar_ros2_ws/build/map_remapper/prefix_override:/home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/map_remapper build --build-base /home/kev/ldlidar_ros2_ws/build/map_remapper/build install --record /home/kev/ldlidar_ros2_ws/build/map_remapper/install.log --single-version-externally-managed install_data

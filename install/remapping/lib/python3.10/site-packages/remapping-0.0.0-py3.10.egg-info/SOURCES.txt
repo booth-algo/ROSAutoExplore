@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/remapping/remapping.egg-info/PKG-INFO
+../../build/remapping/remapping.egg-info/SOURCES.txt
+../../build/remapping/remapping.egg-info/dependency_links.txt
+../../build/remapping/remapping.egg-info/entry_points.txt
+../../build/remapping/remapping.egg-info/requires.txt
+../../build/remapping/remapping.egg-info/top_level.txt
+../../build/remapping/remapping.egg-info/zip-safe
+remapping/__init__.py
+remapping/remap.py
+resource/remapping
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

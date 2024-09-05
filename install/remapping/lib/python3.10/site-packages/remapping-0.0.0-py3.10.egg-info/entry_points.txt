@@ -1,0 +1,3 @@
+[console_scripts]
+remap = remapping.remap:main
+

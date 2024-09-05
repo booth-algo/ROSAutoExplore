@@ -1,0 +1,22 @@
+[1.095s] Invoking command in '/home/kev/ldlidar_ros2_ws/src/map_remapper': PYTHONPATH=/home/kev/ldlidar_ros2_ws/build/map_remapper/prefix_override:/home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/map_remapper build --build-base /home/kev/ldlidar_ros2_ws/build/map_remapper/build install --record /home/kev/ldlidar_ros2_ws/build/map_remapper/install.log --single-version-externally-managed install_data
+[1.278s] running egg_info
+[1.278s] writing ../../build/map_remapper/map_remapper.egg-info/PKG-INFO
+[1.278s] writing dependency_links to ../../build/map_remapper/map_remapper.egg-info/dependency_links.txt
+[1.278s] writing entry points to ../../build/map_remapper/map_remapper.egg-info/entry_points.txt
+[1.278s] writing requirements to ../../build/map_remapper/map_remapper.egg-info/requires.txt
+[1.279s] writing top-level names to ../../build/map_remapper/map_remapper.egg-info/top_level.txt
+[1.280s] reading manifest file '../../build/map_remapper/map_remapper.egg-info/SOURCES.txt'
+[1.280s] writing manifest file '../../build/map_remapper/map_remapper.egg-info/SOURCES.txt'
+[1.281s] running build
+[1.281s] running build_py
+[1.281s] running install
+[1.281s] running install_lib
+[1.282s] running install_data
+[1.282s] running install_egg_info
+[1.283s] removing '/home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map_remapper-0.0.0-py3.10.egg-info' (and everything under it)
+[1.283s] Copying ../../build/map_remapper/map_remapper.egg-info to /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages/map_remapper-0.0.0-py3.10.egg-info
+[1.284s] running install_scripts
+[1.300s] Installing costmap_printer script to /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/map_remapper
+[1.300s] Installing map_remapper script to /home/kev/ldlidar_ros2_ws/install/map_remapper/lib/map_remapper
+[1.300s] writing list of installed files to '/home/kev/ldlidar_ros2_ws/build/map_remapper/install.log'
+[1.330s] Invoked command in '/home/kev/ldlidar_ros2_ws/src/map_remapper' returned '0': PYTHONPATH=/home/kev/ldlidar_ros2_ws/build/map_remapper/prefix_override:/home/kev/ldlidar_ros2_ws/install/map_remapper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/map_remapper build --build-base /home/kev/ldlidar_ros2_ws/build/map_remapper/build install --record /home/kev/ldlidar_ros2_ws/build/map_remapper/install.log --single-version-externally-managed install_data
